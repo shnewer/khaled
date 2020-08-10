@@ -1,5 +1,5 @@
 $(`<a id="تطوير-وتكويد-خالد-السوري" href=""><i class="fa fa-refresh fa-spin fa-3x fa-fw" aria-hidden="true"></i></a><img id="لاتسرق-التصميم-ياتيس"src="https://mrkzgulfup.com/uploads/159708673251291.jpg
-"style="width:100%"><a id="تطوير-مطنوخ-ششمر"target="_blank"type="a"rel="nofollow"title=""href="http://www.dookmobile.com/"class="label-primary">برمجه خالد السوري </a></div></div><center>`).insertBefore(".nav-tabs"),$(".nav-tabs").addClass("fl").css("width","100%"),
+"style="width:100%"><a id="تطوير-خالد-السوري"target="_blank"type="a"rel="nofollow"title=""href="http://www.dookmobile.com/"class="label-primary">برمجه خالد السوري </a></div></div><center>`).insertBefore(".nav-tabs"),$(".nav-tabs").addClass("fl").css("width","100%"),
 $(`<center><div id="fahd99">
 <a id="فهد"rel="dofollow" title="القوانين" href=""style="border-radius: 0 4px 0 0; border-right: 2px solid#f7d322;"class="fl mini  fa fa-bullhorn btn btn-primary" target="_blank"></a>
 <a id="فهد"rel="dofollow" title="الاشتراكات" href=""style="border-right: 1px solid#fff;"class="fl mini  fa fa-star-half-o btn btn-primary" target="_blank"></a>
@@ -12,7 +12,7 @@ $(`<center><div id="fahd99">
 </div></div><center>
 <center><div><marquee direction="right" id="oa43" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="3"> 
 
-&nbsp;أهلا وسهلا بكم في شات <font color="#595757" class="فهد2">  اوتـار بغداد </font> ● · ‫أفضل سوبر لهذا الأسبوع · ● <font class="فهد2" color="#727A54">&nbsp; قريـــبا &nbsp;</font> ● · ‫أفضل زائر لهذا الأسبوع · ● <font class="فهد2" color="#ff9900">&nbsp;قريـــبا &nbsp;</font> ● · ‫أفضل زائرة لهذا الأسبوع · ● <font class="فهد2" color="#ff00ff">&nbsp; قريـــبا &nbsp;</font> ● · مبدع الحائط لهذا الأسبوع · ● <font class="فهد2" color="#5CAD9A">&nbsp; قريـــبا   &nbsp;</font> ● · مبدعة الحائط لهذا الأسبوع · ● <font class="فهد2" color="#800000">&nbsp; قريـــبا &nbsp;</font> ● · ‫أفضل تواجد لهذا الأسبوع · ● <font class="فهد2" color="#417570">&nbsp; قريـــبا &nbsp;</font> ● · مع تمنياتنا للجميع بـ أطيب الاوقات&nbsp;
+&nbsp;أهلا وسهلا بكم في شات <font color="#595757" class="فهد2">  عشقي للجوال </font> ● · ‫أفضل سوبر لهذا الأسبوع · ● <font class="فهد2" color="#727A54">&nbsp; قريـــبا &nbsp;</font> ● · ‫أفضل زائر لهذا الأسبوع · ● <font class="فهد2" color="#ff9900">&nbsp;قريـــبا &nbsp;</font> ● · ‫أفضل زائرة لهذا الأسبوع · ● <font class="فهد2" color="#ff00ff">&nbsp; قريـــبا &nbsp;</font> ● · مبدع الحائط لهذا الأسبوع · ● <font class="فهد2" color="#5CAD9A">&nbsp; قريـــبا   &nbsp;</font> ● · مبدعة الحائط لهذا الأسبوع · ● <font class="فهد2" color="#800000">&nbsp; قريـــبا &nbsp;</font> ● · ‫أفضل تواجد لهذا الأسبوع · ● <font class="فهد2" color="#417570">&nbsp; قريـــبا &nbsp;</font> ● · مع تمنياتنا للجميع بـ أطيب الاوقات&nbsp;
 
 </marquee></div><center>`
 ).insertBefore('div#tlogins .lonline.light.break');
@@ -95,10 +95,10 @@ a#تطوير-وتكويد-فهد-الشمري{color:#fff!important;position:abso
 .ae.fa.chats.label.fa-comment.label-warning{padding:7px 13px 5px;margin-left:-7px!important;border-radius:0}
 .bgg.border.corner{border-bottom-right-radius:0!important}
 label.fl.nosel.label.pnhead{background-color:#008e91}
-iframe#فهدد-الشششمري{height:118px;float:left;border-bottom:3px solid #e5032f;background-color:#fff;margin-top:-6px;background-image:url();background-size:contain}
+iframe#خالد السوري{height:118px;float:left;border-bottom:3px solid #e5032f;background-color:#fff;margin-top:-6px;background-image:url();background-size:contain}
 div#fahd99{text-align:center;border-radius:0 0 7px 7px;width:63%;position:absolute;top:172.9px;right:0;/* margin-left:33px;*/}
-a#تطوير-فهد-الشمري{font-size:14px!important;width:25%!important;border:1px solid #f0ad4e;margin-right:5px;float:right;margin-top:-2px;padding:1px!important;height:24px!important;color:#fff!important;background-color:#43a2a1!important;margin-left:-8px}
-a#مطنوخ-شمر{font-size:14px!important;width:25%!important;border:1px solid #f0ad4e;margin-right:5px;float:right;margin-top:-3px;padding:1px!important;height:23px!important;color:#fff!important;background-color:#43a2a1!important;margin-left:-8px}
+a#تطوير-خالد-السوري{font-size:14px!important;width:25%!important;border:1px solid #f0ad4e;margin-right:5px;float:right;margin-top:-2px;padding:1px!important;height:24px!important;color:#fff!important;background-color:#43a2a1!important;margin-left:-8px}
+a#القيصر-السوري{font-size:14px!important;width:25%!important;border:1px solid #f0ad4e;margin-right:5px;float:right;margin-top:-3px;padding:1px!important;height:23px!important;color:#fff!important;background-color:#43a2a1!important;margin-left:-8px}
 .badge{display:inline!important;background-color:#7770;border-radius:33%;border:#1f95a208 solid 1px!important;margin-left:-5px;vertical-align:top}
 div#menu-l{height:55px;width:307px;float:left;position:absolute;top:-11px;right:-7px}
 .ae{border:1px solid #afabab}
@@ -126,13 +126,14 @@ img.fl.nosel.emobox{margin-top:-4px}
 img.fl.nosel.emo{margin-top:-1px}
 .ae,button.btn{border-radius:3px;border:#e8e8e8 solid 1px}
 a.fl.emobc:focus,i.fa.fa-smile-o:focus,.primaryborder:focus,.btn.btn-success:focus,.btn.btn-primary:focus,.dots:focus,.bg:focus,textarea.fl.filw.corner.tbox:focus,area:focus,input#pass1:focus,input#u1:focus,input#u3:focus,input#pass2:focus,input#u2:focus{outline:0;border-color:none;outline:0;-webkit-box-shadow:none;box-shadow:none}
-div#3تطوير-فهدالشمري0{background-image:linear-gradient(to bottom,#f1f3f4 0,#f1f3f4 100%);text-align:center;color:#118284;margin:-27px 0 -20px}
-div#3تطوير-فهدالشمري11{width:100%;background-color:#13b6b9!important;border-radius:3px;border-left:1px solid #5290ac;border-top:1px solid #5290ac;border-right:1px solid #376b87;border-bottom:1px solid #376b87;margin:1px 0 3px;height:27px;padding:0}
+div#3تطوير-خالدالسوري0{background-image:linear-gradient(to bottom,#f1f3f4 0,#f1f3f4 100%);text-align:center;color:#118284;margin:-27px 0 -20px}
+div#3تطوير-خالد السوري
+ي11{width:100%;background-color:#13b6b9!important;border-radius:3px;border-left:1px solid #5290ac;border-top:1px solid #5290ac;border-right:1px solid #376b87;border-bottom:1px solid #376b87;margin:1px 0 3px;height:27px;padding:0}
 div#tlogins img.fitimg.fl.u-pic,.u-ico,img#لاتسرق-التصميم-ياتيس{pointer-events:none}
 a#oa0{text-decoration:none;margin-right:6px;float:right;border-radius:3px;border-color:#e6e6fa;padding:6px;margin-top:2px;color:red;width:106px;text-align:center;font:normal normal normal 14px/1 FontAwesome}
-iframe#فهد-الشمري90{height:59px;position:absolute;top:74px;right:-232px}
+iframe#خالد-السوري90{height:59px;position:absolute;top:74px;right:-232px}
 a#فهد-الشمري80{width:100px;background-color:#13b6b9!important;border-radius:3px;border-left:1px solid #5290ac;border-top:1px solid #5290ac;border-right:1px solid #376b87;border-bottom:1px solid #376b87;margin:0 0 2px;text-align:center;color:#fff;height:27px;padding:1px;font-size:14px!important}
-input[type="تطويرر-فهدالشمري"]{width:182px;margin-left:1px;border-radius:3px;text-align:center}
+input[type="تطويرر-خالد السوري"]{width:182px;margin-left:1px;border-radius:3px;text-align:center}
 button.btn.btn-primary.hand.borderg.corner.fa.fa-ban{width:77px;border-radius:6px;height:27px;background-repeat:repeat-x;border-color:#b92c28;background-image:linear-gradient(to bottom,#d9534f 0,#c12e2a 100%);background-color:#c12e2a!important}
 .fa-user:before{margin-right:4px}
 a.btn.minix.fa.fa-comment.fr{color:#f50e0e!important;/* border-radius:4px;*/
